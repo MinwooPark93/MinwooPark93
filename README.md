@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=300&section=header&text=MinwooPark%20&fontSize=60)
 
 
-## <center>안녕하세요,</center>
+## 안녕하세요,
 
-#### <center>개 발에 땀나듯 개발하자!</center>
-#### <center>프론트엔드 개발자 박민우입니다.</center>
+### 개 발에 땀나듯 개발하자!
+#### 프론트엔드 개발자 박민우입니다.
 
-##### <center>항상 새로운 것을 시도하는 것에 재미를 느끼고,</center>
-##### <center>내 것으로 만드는 것에 성취감을 느낍니다.</center>
-##### <center>또한 맡은 일에 항상 최선을 다합니다.</center>
-##### <center>개인적인 개발 능력만큼 협업 또한 중요시 생각합니다.</center>
+##### 항상 새로운 것을 시도하는 것에 재미를 느끼고,
+##### 내 것으로 만드는 것에 성취감을 느낍니다.
+##### 또한 맡은 일에 항상 최선을 다합니다.
+##### 개인적인 개발 능력만큼 협업 또한 중요시 생각합니다.
 
 
 
@@ -21,23 +21,22 @@
 
 
 ### Used
-<center>![Socket.Io](https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/webrtc-E03C31?style=for-the-badge&logo=webrtc&logoColor=white) ![Json web tokens](https://img.shields.io/badge/json%20web%20tokens-000000?style=for-the-badge&logo=json%20web%20tokens&logoColor=white)</center>
+![Socket.Io](https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/webrtc-E03C31?style=for-the-badge&logo=webrtc&logoColor=white) ![Json web tokens](https://img.shields.io/badge/json%20web%20tokens-000000?style=for-the-badge&logo=json%20web%20tokens&logoColor=white)
 
 
 ### CloudFront
-<center>![Amazonaws](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/amazon%20s3-569A31?style=for-the-badge&logo=amazon%20s3&logoColor=white) ![Amplify](https://img.shields.io/badge/-aws%20amplify-FF9900?style=for-the-badge&logo=aws%20amplify&logoColor=white)</center>
+![Amazonaws](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/amazon%20s3-569A31?style=for-the-badge&logo=amazon%20s3&logoColor=white) ![Amplify](https://img.shields.io/badge/-aws%20amplify-FF9900?style=for-the-badge&logo=aws%20amplify&logoColor=white)
 
 
 ### Version Control
-<center>![Git](https://img.shields.io/badge/git-333333?style=for-the-badge&logo=git&logoColor=white) ![Git Hub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)</center>
+![Git](https://img.shields.io/badge/git-333333?style=for-the-badge&logo=git&logoColor=white) ![Git Hub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 ### Tool
-<center>![VisualStudioCode](https://img.shields.io/badge/VS%20CODE-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)</center>
+![VisualStudioCode](https://img.shields.io/badge/VS%20CODE-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
 
 
 
-<center>[![Minwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinwooPark93)](https://github.com/MinwooPark93/github-readme-stats)</center>
-
+[![Minwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinwooPark93)](https://github.com/MinwooPark93/github-readme-stats)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=200&section=footer)
